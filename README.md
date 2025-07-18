@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tahmidsadat2002@gmail.com**
 
-- ⚡ Fun fact **I was a Tier 1 player in PUBG Mobile,back in 2022.**
+- ⚡ Fun fact **I was a Tier 1 PUBG Mobile player back in 2022.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
