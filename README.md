@@ -30,7 +30,7 @@
 ### Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:tahmidsadat02@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:tahmidsadat2002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
