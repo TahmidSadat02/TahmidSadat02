@@ -1,20 +1,25 @@
 <h1 align="center">👋 Hi, I'm Sadat</h1>
-<h3 align="center">Software Developer | Flutter & Python Enthusiast | AI + Web Learner</h3>
+<h3 align="center"> CSE Student | Software Developer | Flutter & Python Enthusiast | AI + Web Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Code.+Create.+Innovate.;Exploring+AI+%26+ML+with+Python;Building+with+C%23%2C+Flutter%2C+.NET;" alt="Typing SVG" />
+</p>
 
 ---
 
 ### About Me
--  Currently building **AI-based & Mobile Applications**
+-  CSE student at AIUB 
+-  Currently mastering **DSA** and diving deep into **Machine Learning**
 -  Career Goal: Become a **Full-Stack Software Engineer**
 -  Learning **Flutter, Django, MongoDB, WebSockets, Cloud**
 -  I love building useful, creative products that solve daily life problems
--  Reach Me: **tahmidsadat2002@gmail.com**
+-  Reach Me: **tahmidsadat2002@gmail.com**  
 
 ---
 
 ### Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,flutter,dart,html,css,js,react,nodejs,django,mongodb,firebase,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,flutter,dart,html,css,js,php,nodejs,django,mongodb,firebase,git,github,linux,vscode" />
 </p>
 
 ---
