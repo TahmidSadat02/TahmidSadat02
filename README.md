@@ -8,7 +8,7 @@
 -  Career Goal: Become a **Full-Stack Software Engineer**
 -  Learning **Flutter, Django, MongoDB, WebSockets, Cloud**
 -  I love building useful, creative products that solve daily life problems
--  Reach Me: **tahmidsadat02@gmail.com**
+-  Reach Me: **tahmidsadat2002@gmail.com**
 
 ---
 
